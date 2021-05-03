@@ -84,10 +84,15 @@ Travel Agency Website project is a website which is used for tourists and people
 
 
 SAMPLE OUTPUT:
+
 ![image](https://user-images.githubusercontent.com/62333854/116901471-99f47880-ac57-11eb-9987-b7a918362f56.png)
+
 ![image](https://user-images.githubusercontent.com/62333854/116901497-a1b41d00-ac57-11eb-80ce-c77265e2d576.png)
+
 ![image](https://user-images.githubusercontent.com/62333854/116901521-a8429480-ac57-11eb-8be8-bdaacb9f65e3.png)
+
 ![image](https://user-images.githubusercontent.com/62333854/116901543-aed10c00-ac57-11eb-9720-4b797a82c472.png)
+
 ![image](https://user-images.githubusercontent.com/62333854/116901558-b42e5680-ac57-11eb-9f00-a49e344ff183.png)
 
 
